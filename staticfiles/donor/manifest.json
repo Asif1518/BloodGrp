@@ -1,0 +1,35 @@
+{
+    "name": "BCS Education Cadre Blood Group",
+    "short_name": "BloodGrp",
+    "description": "Manage Blood Donor Information for BCS Education Cadre",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#4CAF50",
+    "icons": [
+        {
+            "src": "/static/images/icon1.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/static/images/icon2.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "screenshots": [
+    {
+      "src": "/static/images/scrnsht.png",
+      "type": "image/png",
+      "sizes": "540x720",
+      "form_factor": "narrow"
+    },
+    {
+      "src": "/static/images/scrnsht2.png",
+      "type": "image/png",
+      "sizes": "720x540",
+      "form_factor": "wide"
+    }
+  ]
+}
